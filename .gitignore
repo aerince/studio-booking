@@ -1,0 +1,8 @@
+# 展示仓库仅跟踪明确允许的材料。
+/*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/customer-desktop.png
+!/assets/booking-mobile.png
